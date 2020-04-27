@@ -20,11 +20,11 @@ The data used for this project not publically available. It was provided only to
 ## Files
 - Arvato Project Workbook Jupyter Notebook
 - imgs - direcoty of images extracted from the Jupyter notebook
-- Arvato Report.pdf - Analysis report
+- project report udacity.pdf - Analysis report
 
 
 ## Results
-The detailed analysis of the results can be read in the Arvato Report.pdf.
+The detailed analysis of the results can be read in project report udacity.pdf.
 
 ### Customer segmentation
 - One group was found to be more likely to be customers: These indivduals were more religious, older and savers.
