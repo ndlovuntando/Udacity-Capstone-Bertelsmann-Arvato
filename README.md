@@ -12,7 +12,7 @@ Additional libraries needed:
 - seaborn
 
 ## Project Motivation
-This project was done as the capstone requirement for Udacity's Data Scientist Nanodegree. The goal was to characterize what types of individuals are more likely to be customers of a mail-order retailer and predict which customers would respond positively to marketing campaigns.
+This project was done as the capstone requirement for Udacity's Machine Learning Engineer Nanodegree. The goal was to characterize what types of individuals are more likely to be customers of a mail-order retailer and predict which customers would respond positively to marketing campaigns.
 
 ## Data
 The data used for this project not publically available. It was provided only to those participating in the "in class" competition.
